@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/1337.Solution/1337.Tests/obj/Debug/netcoreapp2.2/1337.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/1337.Solution/1337.Tests/obj/Debug/netcoreapp2.2/1337.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/1337.Solution/1337.Tests/obj/Debug/netcoreapp2.2/1337.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/1337.Solution/1337.Tests/obj/Debug/netcoreapp2.2/1337.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/1337.Tests.deps.json
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/1337.Tests.runtimeconfig.json
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/1337.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/1337.Tests.dll
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/1337.Tests.pdb
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/1337.dll
+/Users/Guest/Desktop/1337.Solution/1337.Tests/bin/Debug/netcoreapp2.2/1337.pdb
+/Users/Guest/Desktop/1337.Solution/1337.Tests/obj/Debug/netcoreapp2.2/1337.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/1337.Solution/1337.Tests/obj/Debug/netcoreapp2.2/1337.Tests.dll
+/Users/Guest/Desktop/1337.Solution/1337.Tests/obj/Debug/netcoreapp2.2/1337.Tests.pdb
